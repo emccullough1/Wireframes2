@@ -33,6 +33,12 @@
   "name": "input/signin copy 2",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE26C1DE-5905-4402-9B6B-D56F87B12658",
+      "overrideName": "164F5E52-2CDC-4D5B-8487-687C4C75E88E_stringValue",
+      "value": "username"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

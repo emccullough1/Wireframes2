@@ -18,7 +18,7 @@
     "height": 57,
     "width": 308,
     "x": 33,
-    "y": 181
+    "y": 166
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "input/signin",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F431C4D-124D-46B9-9DCC-733F26991E89",
+      "overrideName": "164F5E52-2CDC-4D5B-8487-687C4C75E88E_stringValue",
+      "value": "username"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

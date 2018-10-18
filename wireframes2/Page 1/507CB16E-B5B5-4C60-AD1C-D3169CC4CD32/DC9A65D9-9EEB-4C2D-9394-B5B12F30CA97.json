@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 67,
-    "width": 248,
-    "x": 63,
-    "y": 442
+    "height": 57,
+    "width": 308,
+    "x": 33,
+    "y": 396
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "button/large",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41024930-E70F-4F4E-967D-64904A34AD12",
+      "overrideName": "281CA588-83D0-403D-A97E-9B0496FDF63E_stringValue",
+      "value": "Sign In"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

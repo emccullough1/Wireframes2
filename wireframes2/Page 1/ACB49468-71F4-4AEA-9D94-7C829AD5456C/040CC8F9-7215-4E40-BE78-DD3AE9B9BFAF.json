@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 27,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "incorrect email or password"
+    "string": "incorrect username or password"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,10 +51,10 @@
     "constrainProportions": false,
     "height": 14,
     "width": 307,
-    "x": 34,
-    "y": 165
+    "x": 36,
+    "y": 150
   },
-  "glyphBounds": "{{0, 2}, {146, 12}}",
+  "glyphBounds": "{{0, 2}, {171, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,8 +63,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "incorrect email or p",
-  "nameIsFixed": false,
+  "name": "incorrect usernameo",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

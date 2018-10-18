@@ -33,6 +33,22 @@
   "name": "input/signin copy 5",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24ACB55F-6EC5-4544-8054-851692C9D160",
+      "overrideName": "10429CD5-B165-4312-B6EE-6F08A6DB2F2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/08eda55927bfcfd87e7dac03aedfc8fd39dea07d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B59476A6-0232-49FB-8754-D6981ABB8A95",
+      "overrideName": "164F5E52-2CDC-4D5B-8487-687C4C75E88E_stringValue",
+      "value": "email"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

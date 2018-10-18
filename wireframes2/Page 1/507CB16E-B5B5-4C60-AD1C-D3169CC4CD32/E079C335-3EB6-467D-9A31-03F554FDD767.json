@@ -20,7 +20,7 @@
     "height": 57,
     "width": 308,
     "x": 33,
-    "y": 276
+    "y": 261
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,6 +33,22 @@
   "name": "input/signin copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BD3B299-6DD6-4D22-B002-F4E209AF536E",
+      "overrideName": "164F5E52-2CDC-4D5B-8487-687C4C75E88E_stringValue",
+      "value": "password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98F58721-EFF7-457B-B090-884206B255BF",
+      "overrideName": "10429CD5-B165-4312-B6EE-6F08A6DB2F2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4c15e8c80ae753e7a47ea0043b150e7d1d7c568f.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

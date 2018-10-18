@@ -28,7 +28,7 @@
     "y": 332
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,32 +44,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "E969BD05-D2C2-4F06-8DC5-249D46F95771"
-    },
-    {
-      "class": "oval",
-      "id": "64C04591-8FA7-4BD6-AC6F-847538B9BB0A"
-    },
-    {
-      "class": "oval",
-      "id": "2EA4D47D-4D95-4EB7-A5BE-93B8C56E6B2C"
-    },
-    {
-      "class": "oval",
-      "id": "A2FC4D78-0C1E-4074-BF61-20E397CBF03E"
-    },
-    {
-      "class": "oval",
-      "id": "52F8AA93-A48A-409A-8CA7-EE97933B57A0"
-    },
-    {
-      "class": "oval",
-      "id": "108E87B7-FCB2-4477-8E42-D637B34DBDB4"
-    },
     {
       "class": "symbolInstance",
       "id": "AE77FDC0-1327-493F-AB13-3F50905924F6"
@@ -88,15 +64,15 @@
     },
     {
       "class": "text",
-      "id": "966E01EE-5450-4CEA-88CF-697D08430E70"
-    },
-    {
-      "class": "text",
       "id": "C16EDEDD-599C-4500-934C-C6FD7E8F6EAE"
     },
     {
       "class": "text",
       "id": "040CC8F9-7215-4E40-BE78-DD3AE9B9BFAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4A8123F-1C9D-4ECC-AF51-1358CF7AE117"
     }
   ],
   "layout": {

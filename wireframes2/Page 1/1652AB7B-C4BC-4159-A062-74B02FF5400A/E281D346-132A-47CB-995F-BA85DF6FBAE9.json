@@ -33,6 +33,22 @@
   "name": "input/signin copy 4",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E53BB198-426A-4F20-A333-82C2E73BED27",
+      "overrideName": "10429CD5-B165-4312-B6EE-6F08A6DB2F2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4c15e8c80ae753e7a47ea0043b150e7d1d7c568f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48145F00-38F0-4FE8-9EDC-ACABDC04BF3F",
+      "overrideName": "164F5E52-2CDC-4D5B-8487-687C4C75E88E_stringValue",
+      "value": "password"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

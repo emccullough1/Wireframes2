@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "D7BCAD87-6535-4C29-9431-4D2E9933F585",
+  "do_objectID": "D88C17BB-6E1A-46BC-8BF7-503FFE85BD4B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "88ED81FA-FEAC-42D0-AF34-47DA1EBB6C71",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,40 +13,39 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "19675E71-C323-4471-A012-A45FF59C491B",
-    "height": 57,
-    "width": 308,
-    "x": 33,
-    "y": 444
+    "constrainProportions": true,
+    "height": 50,
+    "width": 50,
+    "x": 293,
+    "y": 11
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/507ccfec5c6ce42f3970919d80b5b785e81c3d83.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/large copy",
+  "name": "instagram",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AF9D9E9F-0151-4E5D-A3AB-3D3B512FB878",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "137BBBF4-C265-41EF-9165-63C6A006078B",
-  "verticalSpacing": 0
+  }
 }
