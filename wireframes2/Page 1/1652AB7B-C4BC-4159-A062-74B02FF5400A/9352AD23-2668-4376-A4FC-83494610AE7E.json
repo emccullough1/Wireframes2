@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9352AD23-2668-4376-A4FC-83494610AE7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0674BA96-D5E5-4B8B-86A3-44466DD4B4DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9754F90C-9D0A-4D51-955C-D79C8CC44E98",
+    "height": 57,
+    "width": 308,
+    "x": 34,
+    "y": 127
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input/signin copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDEDB196-BA40-4505-8C69-7DE36D084FAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "590261FB-83E3-4EE1-BFC6-85FDDBEA397C",
+  "verticalSpacing": 0
+}
