@@ -1,11 +1,12 @@
 {
-  "_class": "rectangle",
+  "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3324CB5C-4E91-49F0-8F05-38774328F2F4",
+  "do_objectID": "A9DD0EB5-ACE6-4D6F-8F5F-600B18F4DCC7",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9DA05219-8C63-42A9-A2AC-4390BB8BED24",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,17 +14,16 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 33.5,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 308,
+    "do_objectID": "BB9636A0-4E18-449B-884E-D97B04C65515",
+    "height": 382,
+    "width": 397,
     "x": 0,
-    "y": 0
+    "y": -172
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -31,49 +31,49 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Oval Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 33.5,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "cornerRadius": 0,
+      "curveFrom": "{0.77614237490000004, 1}",
+      "curveMode": 2,
+      "curveTo": "{0.22385762510000001, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 1}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 33.5,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.22385762510000001}",
+      "curveMode": 2,
+      "curveTo": "{1, 0.77614237490000004}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.5}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 33.5,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
+      "cornerRadius": 0,
+      "curveFrom": "{0.22385762510000001, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.77614237490000004, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 33.5,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.77614237490000004}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22385762510000001}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.5}"
     }
   ],
   "resizingConstraint": 63,
@@ -94,10 +94,11 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 1,
+        "position": 0,
         "thickness": 1
       }
     ],
+    "do_objectID": "16872EFE-57B6-4515-94EE-65EF6AA9ABA9",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,9 +106,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7568627450980392,
-          "green": 0.9411764705882353,
-          "red": 0.7568627450980392
+          "blue": 0.6,
+          "green": 0.996078431372549,
+          "red": 0.9372549019607843
         },
         "fillType": 0,
         "isEnabled": true,
@@ -118,28 +119,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 12,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0.5490196078431373,
-          "green": 0.5490196078431373,
-          "red": 0.5725490196078431
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 3,
-        "spread": 1
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

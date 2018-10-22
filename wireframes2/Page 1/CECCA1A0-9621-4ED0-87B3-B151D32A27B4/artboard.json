@@ -28,7 +28,7 @@
     "y": 332
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,6 +46,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "15314F2B-0F3A-493C-AEA9-9B55761DA25D"
+    },
+    {
+      "class": "text",
+      "id": "631B8175-832B-4E9D-B563-AAF7D9B9C74F"
+    }
   ],
   "name": "Home",
   "nameIsFixed": true,

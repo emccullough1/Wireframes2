@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1012,
+  "changeIdentifier": 1013,
   "clippingMaskMode": 0,
   "do_objectID": "55969B43-65F8-403F-B9A7-A9C06E7528BD",
   "exportOptions": {
@@ -48,10 +48,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "4286737D-C0C4-4448-8237-2442D5C2F611"
-    },
     {
       "class": "bitmap",
       "id": "A074E38B-7F8C-4FF8-9190-46647DFC586C"

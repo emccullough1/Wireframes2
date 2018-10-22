@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 1813,
+    "x": 1320,
     "y": 332
   },
   "hasBackgroundColor": false,
@@ -34,6 +34,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      33,
+      -402
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -46,6 +48,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8C7867AD-0929-4C8A-9D64-7F870FD597AA"
+    },
     {
       "class": "symbolInstance",
       "id": "AE77FDC0-1327-493F-AB13-3F50905924F6"

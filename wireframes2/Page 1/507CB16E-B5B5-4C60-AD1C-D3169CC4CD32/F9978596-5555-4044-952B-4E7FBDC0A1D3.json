@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A0FBC5C5-DE1B-4045-957F-FBAA3EDC03BB",
+  "do_objectID": "F9978596-5555-4044-952B-4E7FBDC0A1D3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 308,
-    "x": 33,
-    "y": 237
+    "height": 854,
+    "width": 397,
+    "x": -11,
+    "y": -187
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "input/signin",
+  "name": "Background2",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "6F6FDA8A-D660-45F0-8537-76A47E284B7F",
-      "overrideName": "164F5E52-2CDC-4D5B-8487-687C4C75E88E_stringValue",
-      "value": "username"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "590261FB-83E3-4EE1-BFC6-85FDDBEA397C",
+  "symbolID": "6E674BF0-A750-4560-BD9C-6112BDA697D0",
   "verticalSpacing": 0
 }

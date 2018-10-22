@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1122,
+  "changeIdentifier": 1003,
   "clippingMaskMode": 0,
-  "do_objectID": "550C0BD4-B4D4-43FC-A7F5-4A3CAC8A547C",
+  "do_objectID": "F67D05E8-0519-4434-8FE4-A3C963E31495",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 308,
-    "x": 448,
-    "y": 0
+    "height": 210,
+    "width": 397,
+    "x": 1573,
+    "y": 41
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,15 +49,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "3324CB5C-4E91-49F0-8F05-38774328F2F4"
+      "class": "oval",
+      "id": "A9DD0EB5-ACE6-4D6F-8F5F-600B18F4DCC7"
     },
     {
-      "class": "text",
-      "id": "281CA588-83D0-403D-A97E-9B0496FDF63E"
+      "class": "oval",
+      "id": "7B1618E0-0B1F-4965-B062-6745A1CD7059"
     }
   ],
-  "name": "button/large",
+  "name": "Background",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,7 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "137BBBF4-C265-41EF-9165-63C6A006078B",
+  "symbolID": "AAF65A89-01FA-4C29-9E2C-A4CF30BAB0DE",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

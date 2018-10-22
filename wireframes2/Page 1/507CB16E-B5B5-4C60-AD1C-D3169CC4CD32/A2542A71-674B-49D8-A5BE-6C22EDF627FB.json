@@ -51,8 +51,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 129,
-    "x": 34,
-    "y": 325
+    "x": 44,
+    "y": 394
   },
   "glyphBounds": "{{12, 3}, {105, 13}}",
   "hasClippingMask": false,
@@ -72,6 +72,24 @@
   "style": {
     "_class": "style",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {

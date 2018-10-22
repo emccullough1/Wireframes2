@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1122,
+  "changeIdentifier": 465,
   "clippingMaskMode": 0,
-  "do_objectID": "550C0BD4-B4D4-43FC-A7F5-4A3CAC8A547C",
+  "do_objectID": "9B54D1B5-5763-43FF-8166-29BE32C99DFB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 308,
-    "x": 448,
-    "y": 0
+    "height": 854,
+    "width": 397,
+    "x": 1573,
+    "y": 351
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -50,14 +50,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "3324CB5C-4E91-49F0-8F05-38774328F2F4"
+      "id": "87BDFA7C-80B8-470A-AFD4-A62089C93C1C"
     },
     {
-      "class": "text",
-      "id": "281CA588-83D0-403D-A97E-9B0496FDF63E"
+      "class": "symbolInstance",
+      "id": "8FD0ABD4-4E1A-4FD0-81BF-B42770980BE8"
     }
   ],
-  "name": "button/large",
+  "name": "Background2",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,7 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "137BBBF4-C265-41EF-9165-63C6A006078B",
+  "symbolID": "6E674BF0-A750-4560-BD9C-6112BDA697D0",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

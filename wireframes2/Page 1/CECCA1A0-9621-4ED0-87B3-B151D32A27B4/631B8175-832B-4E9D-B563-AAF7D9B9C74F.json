@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 23
+              "size": 33
             }
           },
           "paragraphStyle": {
@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Sign up"
+    "string": "HOME"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "67F2F9D8-AD11-441B-AF99-8E3A8CEB4BF7",
+  "do_objectID": "631B8175-832B-4E9D-B563-AAF7D9B9C74F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 104,
-    "x": 136,
-    "y": 548
+    "height": 170,
+    "width": 306,
+    "x": 30,
+    "y": 273
   },
-  "glyphBounds": "{{14, 6}, {77, 23}}",
+  "glyphBounds": "{{106, 7}, {95, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sign up",
+  "name": "HOME",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,7 +88,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 23
+            "size": 33
           }
         },
         "paragraphStyle": {

@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.5827221513605442,
+            "green": 0.5827221513605442,
+            "red": 0.5827221513605442
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "LibreFranklin-Thin",
               "size": 16
             }
           },
@@ -52,7 +52,7 @@
     "x": 52,
     "y": 18
   },
-  "glyphBounds": "{{1, 3}, {34, 16}}",
+  "glyphBounds": "{{1, 3}, {36, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -78,14 +78,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.5827221513605442,
+          "green": 0.5827221513605442,
+          "red": 0.5827221513605442
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "LibreFranklin-Thin",
             "size": 16
           }
         },
